@@ -4,3 +4,5 @@ print('Hi')
 endring
 mer 
 hva skjer nå?
+
+mer her
